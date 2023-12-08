@@ -17,7 +17,7 @@
 
         > 或者创建一个 `Github Action`，在 `Discussion` 有内容更新的时候访问指定 `webhook` 接口，需要经过一个独立的中间服务器，暂不考虑
 
-2. 程序部署仓库：`xxnuo/pages`
+2. 程序部署仓库：`xxnuo/xxnuo.github.io`
 
     作用：
 
