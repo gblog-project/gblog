@@ -1,5 +1,7 @@
 # gblog
 
+使用 Github Discussion 作数据源 + Hugo + Github Actions 全自动搭建更新博客
+
 ## 实现原理和思路
 程序和数据分离防止火葬场
 
